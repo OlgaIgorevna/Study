@@ -1,0 +1,4 @@
+@font-face {
+    font-family: strenuous; /* Имя шрифта */
+    src: url(fonts/strenuous.ttf) format("truetype"); /* Путь к файлу со шрифтом */
+   }
